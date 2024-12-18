@@ -14,7 +14,3 @@ This is a simple C program designed to practice fundamental programming concepts
 2. Compile the C program using a C compiler (e.g., GCC).
 3. Run the program.
 4. Follow the prompts to input your age and PIN.
-
-### Example Outputs:
-
-- Age Checker Example:
